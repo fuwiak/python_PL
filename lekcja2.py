@@ -18,3 +18,10 @@ for liczba in lista:
 
 for ind, num in enumerate(lista):
   print(ind, num)
+
+  
+#zadania
+#wypisac nieparzyste elementy listy
+#wypisac liste w odwrotnej kolejnosci
+#wyznaczyc sume elementow listy
+#wyznaczy najwieksza oraz najmniejsza wartosc elementu w liscie
