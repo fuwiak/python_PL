@@ -1,1 +1,1 @@
-# python_korki_PL
+# Materialy dla absolutnie poczatkujacych 
