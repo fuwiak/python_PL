@@ -2,6 +2,9 @@
 
 data = open("file_name.txt", "r")
 data = data.read()
+data = data.split("\n")
+data = [int(x) for x in data]
+
 
 potega3=[]
 for i in range(1, 100000):
