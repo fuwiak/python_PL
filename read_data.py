@@ -24,3 +24,21 @@ def silnia(n):
     return 1
   else:
     return silnia(n-1)*n
+  
+temp_sum=[]
+for liczba in data:
+  splitted_number = str(liczba).split("")
+  for num in splitted_number:
+    num = int(num)
+    if num == silnia(num):
+      tem_sum.append(num)
+      
+ 
+      
+    
+  
+  
+  
+  
+  
+  
