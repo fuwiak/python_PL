@@ -18,3 +18,9 @@ for i in range(1, 100000):
 for liczba in data:
   if liczba in potega3:
     print(liczba)
+
+def silnia(n):
+  if n==0 or n==1:
+    return 1
+  else:
+    return silnia(n-1)*n
