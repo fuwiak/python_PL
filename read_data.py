@@ -9,3 +9,7 @@ for i in range(1, 100000):
   if p <100000 and p not in potega3:
     potega3.append(p)
   
+  
+for liczba in data:
+  if liczba in potega3:
+    print(liczba)
