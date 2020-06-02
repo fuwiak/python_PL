@@ -3,6 +3,8 @@
 data = open("file_name.txt", "r")
 data = data.read()
 data = data.split("\n")
+data = [x for x in data if x!='']
+
 data = [int(x) for x in data]
 
 
