@@ -31,8 +31,8 @@ for liczba in data:
   for num in splitted_number:
     num = int(num)
     if num == silnia(num):
-      tem_sum.append(num)
-      
+      temp_sump.append(num)
+ 
  
       
     
