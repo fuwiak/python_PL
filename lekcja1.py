@@ -38,7 +38,7 @@ lista[::2] #to jest rownowazne lista[0::2]
 
 lista[1::2] # zaczynamy od elementu z indexem rownym 1(tzn w drugi w kolejnosc) i wtedy zaczynamy brac co druga element 
 
-lista[2:6] # wycinamy liste od indexu 2 do indexu 6 
+lista[2:6] # wycinamy liste od indexu 2 do indexu 5( 6-1)
 
   
 
