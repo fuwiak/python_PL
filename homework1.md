@@ -9,5 +9,8 @@ Uzywajac petli for i while:
 3) wartosc minimalna
 4) wartosc maksymalna
 
+lista
+
+
 ```
 
