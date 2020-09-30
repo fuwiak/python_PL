@@ -40,6 +40,10 @@ lista[1::2] # zaczynamy od elementu z indexem rownym 1(tzn w drugi w kolejnosc) 
 
 lista[2:6] # wycinamy liste od indexu 2 do indexu 5( 6-1)
 
+
+# lista list 
+
+A = [[1,2,3], [4,5,6], [7,8,9]]
   
 
 
